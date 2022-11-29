@@ -1,4 +1,4 @@
 export default {
-    'title': 'Hello, world!', // Page title
+    'title': 'Hello, Walkme!', // Page title
     'message': "Let's try the continuous localization approach!", // Text that appears below the title
 };
